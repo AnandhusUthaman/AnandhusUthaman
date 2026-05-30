@@ -141,8 +141,8 @@ const anandhu = {
 | 🥇 Selected — Kerala State Senior Men's National Handball Championship (54th HFI) | 2025–2026 |
 | 🛠️ Tech Lead — µLearn GECI Campus Chapter | Jan 2025 |
 | 📜 MERN Stack Certified — Techmindz, Infopark Kochi | 2024 |
-| 📸 Representative — Obscura Photography Club, GECI | Ongoing |
-| 🤝 Volunteer — NSS GECI | Ongoing |
+| 📸 Representative — Obscura Photography Club, GECI | 2024-2026 |
+| 🤝 Volunteer — NSS GECI | 2023-2024 |
 
 </div>
 
