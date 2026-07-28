@@ -18,7 +18,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/[your-linkedin]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:[your-email]@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://[your-username].github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
+  <a href="https://AnandhusUthaman.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
   <a href="tel:+919037326395"><img src="https://img.shields.io/badge/Phone-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
 </p>
 
@@ -184,16 +184,16 @@ Real-time system detecting AI-generated images, text, and video, shipped as a br
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AnandhusUthaman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandhusUthaman&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[your-username]&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnandhusUthaman&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[your-username]&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AnandhusUthaman&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -210,11 +210,11 @@ Bachelor of Technology in Information Technology — Dec 2022 to Apr 2026
 <p align="center">
   <a href="https://linkedin.com/in/[your-linkedin]"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:[your-email]@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="https://[your-username].github.io"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white"/></a>
+  <a href="https://AnandhusUthaman.github.io"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white"/></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[your-username]&label=Profile%20Views&color=6,11,20&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=AnandhusUthaman&label=Profile%20Views&color=6,11,20&style=flat-square"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
